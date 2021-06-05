@@ -1,3 +1,7 @@
+Excel_solver
+# Analyzed house price data using Excel Solver using Regression. 
+
+Excel
 # Technical Assignment 1
 
 1.	The file “assignment1_actors.xls” contains information on 66 movie stars. This data set contains five variables:
@@ -22,6 +26,7 @@ USED ONE EXCEL FILE THAT CONTAINS FOUR WORKSHEETS TO ANSWER THE ABOVE QUESTIONS.
 EACH QUESTION HAVE ITS OWN WORKSHEET.
 
 
+Pivot_table
 # Technical Assignment 2: Pivot Table
 
 Using the data set we worked on in lab 2, answer the following questions.
