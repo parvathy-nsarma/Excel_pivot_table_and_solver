@@ -20,3 +20,20 @@ Question 4. What conclusions can be drawn through time series analysis generated
 
 USED ONE EXCEL FILE THAT CONTAINS FOUR WORKSHEETS TO ANSWER THE ABOVE QUESTIONS. 
 EACH QUESTION HAVE ITS OWN WORKSHEET.
+
+
+# Technical Assignment 2: Pivot Table
+
+Using the data set we worked on in lab 2, answer the following questions.
+1.	Flops
+Worldwide, what product sold the least number of units?
+2.	Top Seller
+In U.S., what product category provided the most revenue in 2011?  
+3.	Sales by Product Category
+Worldwide, what percentage did the off-road bikes contribute to the overall bicycle sales quantity?  
+In which three cities was this percentage significantly above the average?
+4.	Seasonal Behavior
+Bicycles and accessories are more likely to be bought in spring and summer as in fall and winter time. Find which product is an exception to this rule. You can use the worldwide data or the U.S. data, the trend is the same.
+
+A SCREEN SHOT OF YOUR PIVOT TABLE SETUP, THEN ANALYSIS BASED ON THE SCREENSHOT AND YOUR CONCLUSION.
+
